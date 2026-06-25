@@ -40,4 +40,7 @@ Input file:
 
 ```
 input/input_task2.txt
+
+output : ![Uploading outputtask2.png…]()
+
 ```

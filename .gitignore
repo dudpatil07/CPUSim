@@ -1,0 +1,4 @@
+CPUSim
+*.exe
+*.o
+.vscode/
